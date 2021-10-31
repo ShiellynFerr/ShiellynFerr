@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = "https://github.com/ShiellynFerr/ShiellynFerr/raw/main/assets/github-header-test.gif" alt = "Hi, I'm Shiellyn👋">
+  <img src = "https://github.com/ShiellynFerr/ShiellynFerr/raw/main/assets/ezgif.com-gif-maker.gif " alt = "Hi, I'm Shiellyn👋">
 </p>
 
 
