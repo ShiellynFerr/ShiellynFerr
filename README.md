@@ -44,6 +44,6 @@
   </div>
   
  
-    [Snake animation](https://github.com/ShiellynFerr/ShiellynFerr/blob/output/github-contribution-grid-snake.svg)
+    [Snake animation] <img src="https://github.com/ShiellynFerr/ShiellynFerr/blob/output/github-contribution-grid-snake.svg">
  
 
