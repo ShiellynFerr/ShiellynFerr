@@ -3,7 +3,7 @@
 </p>
 
 
-- Generation Brazil student 👩‍💻🇧🇷
+- Generation Brazil student 👩‍💻
 
 - I study full stack development, but I have a crush on front-end development.
 
@@ -44,7 +44,7 @@
   </div>
   
  
-  
+  ![Snake animation](https://github.com/ShiellynFerr/ShiellynFerr /blob/output/github-contribution-grid-snake.svg)
   
  
 
