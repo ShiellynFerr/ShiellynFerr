@@ -5,13 +5,21 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiellynferr&show_icons=true&locale=en&layout=compact" alt="shiellynferr" /></p>
+<div align = "center">
+  <a href="https://github.com/ShiellynFerr">
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ShiellynFerr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShiellynFerr&layout=compact&langs_count=7&theme=radical" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiellynferr&show_icons=true&locale=en" alt="shiellynferr" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/codepen.io/shiellyn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen.io/shiellyn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shiellyn-ferreira-52a5091b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shiellyn-ferreira-52a5091b6" height="30" width="40" /></a>
-<a href="https://discord.gg/Shiellyn#8985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shiellyn#8985" height="30" width="40" /></a>
-</p>
+  
+   ##
+ 
+<div> 
+  <h3 align="left">Connect with me:</h3>
+ 
+  <a href="www.linkedin.com/in/shiellyn-ferreira" target="_blank"> <img src = https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "target =" _ blank "> </a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"> <img src = "https://img.shields.io/badge/Twitch-9146FF?style=for-the- emblema & logo = twitch & logoColor = white "target =" _ blank "> </a>
+ <a href="https://discord.gg/pDbY76q8Qf" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"> <img src = "https://img.shields.io/badge/-LinkedIn-% 230077B5? Style = for-the-badge & logo = linkedin & logoColor = white "target =" _ blank "> </a> </div>
