@@ -44,7 +44,7 @@
   </div>
   
  
-  ![Snake animation](https://github.com/ShiellynFerr/ShiellynFerr /blob/output/github-contribution-grid-snake.svg)
+  <div> (https://github.com/ShiellynFerr/ShiellynFerr /blob/output/github-contribution-grid-snake.svg)</div>
   
  
 
