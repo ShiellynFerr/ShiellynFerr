@@ -17,8 +17,8 @@
 <div align = "center">
   <a href="https://github.com/ShiellynFerr">
     
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ShiellynFerr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShiellynFerr&layout=compact&langs_count=7&theme=radical" /></div>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=ShiellynFerr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" />
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShiellynFerr&layout=compact&langs_count=7&theme=synthwave" /></div>
 
   <h3> languages and tools used by me </h3>
   
@@ -42,7 +42,6 @@
     <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white target="_blank"></a> 
       
       
-       ![Snake animation](https://github.com/ShiellynFerr/ShiellynFerr/blob/output/github-contribution-grid-snake.svg)
     
   </div>
   
