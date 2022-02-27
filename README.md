@@ -3,13 +3,6 @@
 </p>
 
 
-- Generation Brazil student 👩‍💻
-
-- I study full stack development, but I have a crush on front-end development.
-
-- I used to dream of being a veterinarian, but life made me get in touch with programming
-
-- and I fell in love with it 🤍
 
 ##
 
