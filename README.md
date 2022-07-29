@@ -1,6 +1,4 @@
 <p align = "center">
-   <img src="assets/shiellyn.gif" alt="Oi, eu sou a Shiellyn ✨"/>
+   <img src="assets/Desen.gif" alt="Oi, eu sou a Shiellyn ✨"/>
 </p>
-
-
 
