@@ -2,7 +2,6 @@
 Hi, meu nome é Shiellyn, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> mas você pode me chamar de Shi! 💜
 </h2>
 
-<hr>
 
 ## **Sobre mim** 👩🏽‍💻
 <p>Eu costumava sonhar em ser uma veterinária, mas conheci a programação e me apaixonei pelo mundo dos códigos! 💻</p> 
@@ -11,7 +10,6 @@ Hi, meu nome é Shiellyn, <img src="https://user-images.githubusercontent.com/13
 - Cursando Desenvolvedor(a) Web fullstack - <a href="https://www.resilia.com.br/">Resilia Educação</a>
  - Cursando Desenvolvedor(a) Frontend - <a href="https://www.vainaweb.com.br//">Vai na Web</a>
 
-<hr>
 
 ## **Meus Dados no Github**
 <div align = "center">
