@@ -14,5 +14,5 @@ Hi, meu nome é Shiellyn, <img src="https://user-images.githubusercontent.com/13
 <div align = "center">
   <a href="https://github.com/ShiellynFerr">
    <img height="187em" src="https://github-readme-stats.vercel.app/api?username=ShiellynFerr&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true"/>          
-  <img height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiellynFerr&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="187em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShiellynFerr&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true"/>
 </div>
