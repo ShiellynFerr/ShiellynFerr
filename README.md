@@ -6,8 +6,8 @@ Hi, meu nome é Shiellyn, <img src="https://user-images.githubusercontent.com/13
 ## **Sobre mim** 👩🏽‍💻
 <p>Eu costumava sonhar em ser uma veterinária, mas conheci a programação e me apaixonei pelo mundo dos códigos! 💻</p> 
 
-- Cursando Desenvolvedor(a) Web fullstack - <a href="https://www.resilia.com.br/">Resilia Educação</a>
- - Cursando Desenvolvedor(a) Frontend - <a href="https://www.vainaweb.com.br//">Vai na Web</a>
+
+ - Aprendiz Desenvolvedor(a) Frontend - <a href="https://www.vainaweb.com.br//">Vai na Web</a>
 
 
 ## **Meus Dados no Github**
