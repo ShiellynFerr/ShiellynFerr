@@ -4,10 +4,8 @@ Hi, meu nome é Shiellyn, <img src="https://user-images.githubusercontent.com/13
 
 
 ## **Sobre mim** 👩🏽‍💻
-<p>Eu costumava sonhar em ser uma veterinária, mas conheci a programação e me apaixonei pelo mundo dos códigos! 💻</p> 
 
-
- - Aprendiz Desenvolvedor(a) Frontend - <a href="https://www.vainaweb.com.br//">Vai na Web</a>
+Estagiaria de Observabilidade Analytics 
 
 
 ## **Meus Dados no Github**
